@@ -1,0 +1,29 @@
+repositories:
+
+  fast_livo2:
+    type: git
+    url: https://github.com/shamanqing1/FAST-LIVO2.git
+    version: humble
+
+  sophus:
+    type: git
+    url: https://github.com/shamanqing1/sophus.git
+    version: main
+
+  rpg_vikit:
+    type: git
+    url: https://github.com/shamanqing1/rpg_vikit_ros2.git
+    version: main
+
+  livox_ros2_driver:
+    type: git
+    url: https://github.com/shamanqing1/livox_ros2_driver.git
+    version: master
+
+  hikrobot_camera:
+    type: git
+    url: https://github.com/shamanqing1/hikrobot_camera.git
+    version: humble
+  
+
+    
